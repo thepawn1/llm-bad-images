@@ -1,3 +1,8 @@
+""" Daniel Lees
+    Mar 20 2025
+    v0.8
+"""
+
 import cv2
 import numpy as np
 import traceback
